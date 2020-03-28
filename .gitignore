@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DesignPatterns/v16
+/Decorator/bin
+/Decorator/obj
+/Decorator.Test/bin
+/Decorator.Test/obj
+/Factory/bin
+/Factory/obj
+/Factory.Test/bin
+/Factory.Test/obj
+/Observer/bin
+/Observer/obj
+/Onserver.Test/bin
+/Onserver.Test/obj
