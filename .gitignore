@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/DesignPatterns/v16
+/.vs/DesignPatterns
 /Decorator/bin
 /Decorator/obj
 /Decorator.Test/bin
@@ -15,3 +15,7 @@
 /Observer/obj
 /Onserver.Test/bin
 /Onserver.Test/obj
+/Singleton/bin
+/Singleton/obj
+/Singleton.Test/bin
+/Singleton.Test/obj
