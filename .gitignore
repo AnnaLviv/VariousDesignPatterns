@@ -19,3 +19,7 @@
 /Singleton/obj
 /Singleton.Test/bin
 /Singleton.Test/obj
+/Command/bin
+/Command/obj
+/Command.Test/bin
+/Command.Test/obj
